@@ -1,0 +1,28 @@
+.body {
+  background-color:darkorange;
+  color:crimson;
+  font-family:courier;
+  font-size:200%;
+}
+.h1 {
+  background-color:indianred;
+  font-family:impact;
+  color:darkred;
+  text-align:center;
+  border:solid black 12px;
+}
+.input {
+  text-align:center;
+  background-color:orange;
+  font-size:32px;
+  width:180px;
+  height:60px;
+  border: double gold 8px;
+}
+.btn {
+  background-color:orange;
+  font-size:32px;
+  width:180px;
+  height:60px;
+  border: double gold 8px;
+}
